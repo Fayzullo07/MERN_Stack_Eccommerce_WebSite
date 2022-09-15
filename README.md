@@ -1,5 +1,5 @@
 # MERN Stack Eccommerce WebSite
-Demo https:store.fayzullodev.uz
+Demo https://store.fayzullodev.uz
 
 Description: MERN stands for MongoDB, Express.js, React.js and Node.js - and combined, these four technologies allow you to build amazing web applications
 
